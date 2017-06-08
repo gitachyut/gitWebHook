@@ -1,0 +1,24 @@
+{
+  "name": "gitWebHook",
+  "version": "1.0.0",
+  "description": "Testing github web hook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitachyut/gitWebHook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitachyut/gitWebHook/issues"
+  },
+  "homepage": "https://github.com/gitachyut/gitWebHook#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
